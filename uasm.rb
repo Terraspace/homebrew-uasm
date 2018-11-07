@@ -2,16 +2,16 @@ class Uasm < Formula
   desc "UASM - MASM compatible assembler"
   homepage "https://github.com/Terraspace/UASM"
   url "http://www.terraspace.co.uk/uasm-2.47.zip"
-  sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e"
+  sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f"
 
   bottle do
     cellar :any_skip_relocation
-    sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e" => :mojave
-    sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e" => :high_sierra
-    sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e" => :sierra
-    sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e" => :el_capitan
-    sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e" => :yosemite
-    sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e" => :mavericks
+    sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f" => :mojave
+    sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f" => :high_sierra
+    sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f" => :sierra
+    sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f" => :el_capitan
+    sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f" => :yosemite
+    sha256 "32ef8406990c72e20c7d2c9567b5bb464e467c0436847629d81a917c21e2c76f" => :mavericks
   end
   
   patch :DATA
