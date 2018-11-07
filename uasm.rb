@@ -3,7 +3,7 @@ class Uasm < Formula
   homepage "https://github.com/Terraspace/UASM"
   url "http://www.terraspace.co.uk/uasm_osx.zip", :using => :curl
   version "2.46"
-  sha256 "9621C796A51B355F7A8420F6CF1D49EF23D27AE7B3BD9E7441A3A819E8DF8D3E"
+  sha256 "9621c796a51b355f7a8420f6cf1d49ef23d27ae7b3bd9e7441a3a819e8df8d3e"
   bottle :unneeded
   
   def install
